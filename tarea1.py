@@ -13,8 +13,9 @@ print(type(promedio))
 """Comentario extenso """
 print("Suma: ",suma,"A",a,"B",b, sep="*")
 
-nombre1=input("Ingrese su nombre: ")
+
 #OBTENER DATOS DEL USUARIO
+nombre1=input("Ingrese su nombre: ")
 print("Hola, ", nombre1)
 edad=int(input("Ingrese su edad:"))
 print("Su edad es: ",edad)
