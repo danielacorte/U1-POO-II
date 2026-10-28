@@ -1,2 +1,1 @@
-print("hola mundo")
-print ("prueba de python")
+print("Hola Mundo Python")
