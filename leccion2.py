@@ -5,7 +5,9 @@ print(int(9.99))
 frase = "aprendo Python en TEC"
 print(len(frase.split()))
 #Pregunta 3
-
+datos = (10, 20, 30)
+datos[1] = 99
+print(datos)
 #Pregunta 4
 print("ab" * 3)
 #Pregunta 5
