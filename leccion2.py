@@ -59,3 +59,4 @@ for i in numeros:
     else:
         print("Impares")
         print(numeros)
+
