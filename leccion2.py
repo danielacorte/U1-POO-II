@@ -47,16 +47,16 @@ for i in range(3):
 numeros = []
 # Escriba su solución aquí
 while True: 
-    ingreso=int(input("Ingrese un número: "))
-    numeros.append(ingreso)
-    if "fin" is ingreso:
-       break
-print(numeros)
-for i in numeros:
-    if i%2==0:
-       print("Pares")
-       print(numeros)
-    else:
-        print("Impares")
-        print(numeros)
+    ingreso=(input("Ingrese un número: "))
+    if ingreso=="fin":
+         break
+    numeros.append(int(ingreso))
+    pares=[num for num in numeros if num %2 ==0]
+    impares=[num for num in numeros if num%2!=0]
+    pares.sort()
+    impares.sort()
+    print("Numeros Pares: ", pares)
+    print("La suma de los Numeros Pares es: ",sum(pares))
+    print("Numeros Impares: ",impares)
+    print("La suma de los Numeros Impares es: ",sum(impares))
 
