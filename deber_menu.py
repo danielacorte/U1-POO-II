@@ -44,20 +44,22 @@ def pre10():
             print("*", end="")
 def pre11():
     numeros = []
-    # Escriba su solución aquí
-    while True: 
-        ingreso=(input("Ingrese un número: "))
-        if ingreso=="fin":
+    #Escriba su solución aquí
+    while True:
+        ingreso = input("Ingrese un número: ")
+        if ingreso == "fin":
             break
         numeros.append(int(ingreso))
-    pares=[num for num in numeros if num %2 ==0]
-    impares=[num for num in numeros if num%2!=0]
+
+    pares = [num for num in numeros if num % 2 == 0]
+    impares = [num for num in numeros if num % 2 != 0]
     pares.sort()
     impares.sort()
+
     print("Numeros Pares: ", pares)
-    print("La suma de los Numeros Pares es: ",sum(pares))
-    print("Numeros Impares: ",impares)
-    print("La suma de los Numeros Impares es: ",sum(impares))
+    print("La suma de los Numeros Pares es: ", sum(pares))
+    print("Numeros Impares: ", impares)
+    print("La suma de los Numeros Impares es: ", sum(impares))
 def mostrar_preguntas():
     print("-"*40)
     print("-" * 10, "Menú de Preguntas: ", "-" * 10)
