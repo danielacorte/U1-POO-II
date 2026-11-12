@@ -1,0 +1,11 @@
+Persona1
+['0150749950', 'Daniela', 20, 'dani.corte@gmail.com']
+Persona2
+['0964637893', 'Josue', 12, 'josue073@gmail.com']
+Persona3
+['0150765434', 'Mateo', 14, 'maty_09@gmail.com']
+Persona4
+['03862434444', 'Ariana', 18, 'aric97@gmail.com']
+Persona5
+['09376488933', 'Alejandro', 24, 'alex037hdk@gmail.com']
+"Persona6": ["0904874733","Kenny",10,"keny08@gmail.com"]"Persona6": ["0904874733","Kenny",10,"keny08@gmail.com"]

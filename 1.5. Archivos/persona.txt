@@ -1,0 +1,5 @@
+cedula: 0150749950
+nombre: Daniela
+apellido: Corte
+correo: daniela.corte.est@tecazuay.edu.ec
+celular: 0994641381
