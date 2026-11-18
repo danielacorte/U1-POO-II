@@ -1,0 +1,6 @@
+1,Cine años de soledad,Gabriel Garcia Marquez,Disponible
+2,Don Quijote de la mancha,Miguel de Cervantes,Disponible
+3,Orgullo y Prejuicio,Jane Austen,Disponible
+4,El Señor de los Anillos,J.R.R. Tolien,Disponible
+5,La Divina Comedia,Dante Alighieri,Disponible
+6,"C:\Users\USUSRIO_ PC\AppData\Local\Programs\Python\Python315\python.exe" "c:/Users/USUSRIO_ PC/Documents/Ciclo III TSUDS/POO II/U1/Guía Practica U1/GuiaPractica.py",Orgullo y Prejuicio,Disponible
