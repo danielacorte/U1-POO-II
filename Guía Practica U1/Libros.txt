@@ -1,0 +1,9 @@
+1,Cine años de soledad,Gabriel Garcia Marquez,Prestado
+2,Don Quijote de la mancha,Miguel de Cervantes,Disponible
+3,Orgullo y Prejuicio,Jane Austen,Prestado
+4,El Señor de los Anillos,J.R.R. Tolien,Disponible
+5,La Divina Comedia,Dante Alighieri,Disponible
+6,8,8,Disponible
+7,1,ghola,Disponible
+8,la odisea,Homero,Disponible
+9,hola,steven,Disponible
